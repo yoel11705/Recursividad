@@ -1,4 +1,4 @@
-package BusquedaYOrdenamiento;
+package BusquedaYOrdenamiento ;
 
 import java.util.Scanner;
 
